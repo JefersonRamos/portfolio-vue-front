@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-61.223 -3.304 1065.242 526.345" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="-35.389" y="236.888" width="100" height="100"/>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="335.941" cy="-9.517" r="533.058" id="gradient-0" spreadMethod="pad" gradientTransform="matrix(1.408024, -0.159975, 0.11289, 0.993608, -263.849548, 431.867249)">
+      <stop offset="0" style="stop-color: rgb(28, 171, 223);"/>
+      <stop offset="1" style="stop-color: rgb(36, 216, 198);"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="559.067" cy="123.195" r="533.058" id="gradient-2" spreadMethod="pad" gradientTransform="matrix(1.190614, -0.982212, 0.636366, 0.771388, -187.620859, 713.387327)">
+      <stop offset="0" style="stop-color: rgb(28, 171, 223);"/>
+      <stop offset="1" style="stop-color: rgba(36, 216, 198, 0.97);"/>
+    </radialGradient>
+  </defs>
+  <path style="fill-rule: evenodd; paint-order: fill; fill: url(#gradient-2); stroke: rgba(97, 81, 81, 0);" d="M 1040.216 -1.994 C 1040.216 -1.994 340.19 22.474 282.738 -33.623 C 227.849 -87.218 238.705 170.17 184.898 247.606 C 133.185 322.03 336.658 314.693 474.829 212.085 C 559.083 149.517 660.384 229.813 789.211 343.439 C 863.308 408.793 925.731 338.77 1025.844 250.511 L 1040.216 -1.994 Z"/>
+  <path style="fill: url(#gradient-0); fill-rule: evenodd; paint-order: fill; stroke: rgba(255, 255, 255, 0);" d="M 1042.006 -9.406 C 1042.006 -9.406 341.98 15.062 284.528 -41.035 C 229.639 -94.63 117.082 176.582 186.688 240.194 C 257.749 305.137 338.448 307.281 476.619 204.673 C 560.873 142.105 660.716 174.426 776.15 301.636 C 828.362 359.174 927.521 331.358 1027.634 243.099 L 1042.006 -9.406 Z"/>
+</svg>

@@ -1,0 +1,53 @@
+@import url("./../../assets/styles/fonts.css");
+
+.nav-bar {
+    display: flex;
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-color: transparent;
+    transition: all 0.4s;
+}
+
+.nav-bar .title {
+    width: 100%;
+    font-size: 24px;
+    display: flex;
+    align-self: center;
+    color: rgb(95, 95, 95);
+    margin-left: 100px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-bar .menu {
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    margin-right: 100px;
+}
+
+.nav-bar .menu ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.nav-bar .menu ul li {
+    padding: 10px;
+}
+
+.nav-bar .menu ul li a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+}
+
+@media (min-width: 1921px) {
+    .nav-bar {
+        animation-name: color_trans;
+        animation-duration: 4s;
+        background: #24d8c6
+    }
+}
